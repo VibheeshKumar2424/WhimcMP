@@ -1,0 +1,31 @@
+order_id,date,item,quantity,price
+1001,12/05/2025,Vanilla Cone,2,50
+1002,05-13-2025,Chocolate Tub,1,250
+1003,14/05/2025,Strawberry Cup,3,120
+1004,06-20-2025,Mango Cone,2,80
+1005,18/05/2025,Butterscotch Cup,1,90
+1006,07-25-2025,Black Currant,4,200
+1007,21/05/2025,Pista Cone,0,60
+1008,08-15-2025,Orange Bar,5,25
+1009,25/05/2025,Lemon Stick,3,40
+1010,09-05-2025,Chocolate Bar,2,45
+1011,2025-05-10,Vanilla Cup,1,70
+1012,13/32/2025,Mango Stick,2,50
+1013,14/05/2025,,2,100
+1014,15/05/2025,Blueberry Cup,-1,120
+1015,16/05/2025,Chocolate Cone,2,-60
+1016,17/05/2025,Strawberry Bar,abc,40
+1017,18/05/2025,Vanilla Cone,1,xyz
+1018,19/05/2025,Butterscotch Cup,,80
+1019,,Pista Cone,2,60
+1020,20/05/2025,Orange Bar,3,30
+1021,05-22-2025,Lemon Cup,2,55
+1022,05-23-2025,Chocolate Tub,1,250
+1023,05-24-2025,Mango Cone,3,90
+1024,05-25-2025,Vanilla Stick,2,40
+1025,05-26-2025,Black Currant,1,150
+1001,12/05/2025,Duplicate Vanilla,1,50
+1027,05-28-2025,Pista Cup,2,70
+1028,05-29-2025,Orange Cone,0,60
+1029,30/05/2025,Lemon Bar,1,35
+1030,05-31-2025,Chocolate Cone,2,85

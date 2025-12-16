@@ -1,0 +1,7 @@
+order_id,date,item,quantity,price
+1001,12/05/2025,Vanilla cone,2,50
+1002,05-13-2025,Chocolate tub,1,250
+1003,2025-05-14,Strawberry tub,1,abc
+1004,14/05/2025,Blueberry cone,-1,60
+1005,12/05/2025,Vanilla cone,1,50
+1001,12/05/2025,Duplicate cone,1,20
